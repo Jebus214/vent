@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">	
+	<title>Portal Ventanilla Única</title>
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<link rel="stylesheet" href="../css/estilos.css">
+	<link rel="stylesheet" href="../css/bootstrap.css">
+	<link rel="stylesheet" href="../font-awesome-4.6.3/css/font-awesome.min.css">
+</head>
+<body>
+	<header>
+		<div class="logo">
+			<img src="../images/logo_ap.png" alt="logo">
+			
+		</div>
+		<div class="encabezado-tr">
+			<img src="../images/seguridad_title.png">
+		</div>
+	</header>
+		<div class="container">	
+			<div class="contenedor">
+				<section class="row">
+					<div class="col-md-4 col-md-offset-8">
+						<H1>TRAMITE BLA BLA</H1>
+					</div>
+				</section>
+				<section class="row">	
+						<div class="redes">	
+
+							<article class= "col-sm-12 col-md-offset-9 col-md-3">
+								<p>&nbsp;&nbsp;&nbsp;&nbsp;Síguenos:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+									<a href=""><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+									&nbsp;&nbsp;<a href=""><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
+									&nbsp;&nbsp;<a href=""><i class="fa fa-youtube-square" aria-hidden="true"></i></a>
+								 </p>								
+							</article>
+							<section class="row">								
+								<div class="seccion-busqueda col-md-5">
+									<a href="../index.html"><img class="img-home" src="http://lorempixel.com/80/80" alt="Busqueda"></a>
+
+								</div>
+								<div class="seccion-busqueda col-md-7">
+										<form action="./" class="navbar-right">
+											<div class="form-group">
+												<input type="text" class= "busqueda sombra" placeholder="Buscar..."
+												>
+												<input type="submit" class="btn btn-danger sombra" value ="Buscar">		
+											</div>							
+										</form>
+										<div>
+
+							</section>
+							<section class="row">								
+								<div class="col-md-2">
+									<div class="aside-tramite">
+										<p>Lorem ipsum dolor sit.</p>
+										<p>Lorem ipsum dolor sit.</p>
+										<p>Lorem ipsum dolor sit.</p>
+										<p>Lorem ipsum dolor sit.</p>
+										<p>Lorem ipsum dolor sit.</p>
+										<p>Lorem ipsum dolor sit.</p>
+										<p>Lorem ipsum dolor sit.</p>
+										<p>Lorem ipsum dolor sit.</p>
+										<p>Lorem ipsum dolor sit.</p>
+										<p>Lorem ipsum dolor sit.</p>
+									</div>
+								</div>
+								<div class="iconografia-tr col-md-1">									
+									<p><img class="img-principal" src="http://lorempixel.com/80/80" alt="Busqueda"></p>
+									<p><img class="img-principal" src="http://lorempixel.com/80/80" alt="Busqueda"></p>
+									<p><img class="img-principal" src="http://lorempixel.com/80/80" alt="Busqueda"></p>
+									<p><img class="img-principal" src="http://lorempixel.com/80/80" alt="Busqueda"></p>
+									<p><img class="img-principal" src="http://lorempixel.com/80/80" alt="Busqueda"></p>
+									<p><img class="img-principal" src="http://lorempixel.com/80/80" alt="Busqueda"></p>
+								</div>
+								<div class="col-md-9">
+									<div class="info-tramite">
+										<div class ="contenedor-tramite">
+											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis labore incidunt natus quos dolor quis dicta officia architecto recusandae, numquam eligendi, cupiditate obcaecati consequuntur neque, quisquam explicabo, magnam praesentium maxime eaque fuga vel corrupti! Itaque alias vel, nihil officia similique, eos cumque, maxime mollitia culpa placeat quibusdam veniam reprehenderit. Harum repellendus magni dignissimos debitis saepe, fuga adipisci, sint vitae accusantium officia nesciunt illum, reprehenderit veritatis rem nam fugit enim modi quaerat culpa. Tenetur voluptatum blanditiis magnam, exercitationem perspiciatis, porro quis, minus, ea vitae ullam officia aliquid quia? Excepturi eligendi tempora alias tempore id ut culpa. Reprehenderit alias error sunt cum unde vero facere dignissimos soluta, quibusdam voluptas qui veniam? In dolor, est iste quis, vel tenetur totam amet similique illo ipsa architecto, provident, facere iusto! Pariatur voluptatibus, fugit illum molestiae sit quia veniam facilis, asperiores accusamus minima nisi maiores, laudantium, dignissimos et vitae itaque animi delectus quis consectetur repellat harum nulla eius cum est. Id aliquam vitae nam! Cupiditate ducimus optio expedita provident modi similique unde, maxime debitis at ipsa, soluta veritatis nesciunt saepe aliquid quam laboriosam blanditiis dicta earum nam animi quis dolor culpa. Veniam voluptas, maiores, dolor omnis nisi similique deleniti non sint voluptatum totam ut laboriosam, itaque repellendus molestiae vero reprehenderit facere obcaecati quo natus. Aliquid, libero magnam laborum fugiat dolores ratione atque! Vel dolor dolores nobis maiores officia pariatur aliquid ea velit aliquam, inventore deserunt dignissimos totam nulla vero accusantium impedit culpa. Nemo reprehenderit, ipsa minus iure et vel, fuga sed, labore ea quisquam quaerat suscipit dicta placeat in, natus temporibus commodi debitis optio repudiandae dolorem magni ab blanditiis a illum? Iusto nam iure eaque temporibus consequuntur consequatur culpa modi, atque vitae ipsam necessitatibus totam suscipit. Voluptatem pariatur dignissimos consectetur dicta est ratione tempora reprehenderit illo suscipit, eveniet, saepe obcaecati mollitia doloribus sint commodi fugiat! Iste amet ullam dolor omnis distinctio nostrum voluptate tenetur nisi pariatur magnam corporis earum reprehenderit, soluta praesentium vero minus aliquam, autem quia non deleniti saepe sunt similique explicabo? Delectus sapiente voluptas rerum repellendus facere explicabo expedita numquam dolorem aliquid, nostrum, ratione 	debitis eos vel nesciunt quo ut! Consequatur quasi a facere ex veritatis illo assumenda reiciendis explicabo ipsa nostrum. Beatae officiis, eveniet sit at, labore dolor ab eligendi quod aperiam optio, in! Nisi debitis est delectus esse, reprehenderit eos veritatis excepturi laudantium impedit, aliquid voluptate nihil non omnis ipsum accusantium natus! Cum culpa, architecto aperiam recusandae vitae nam. Aperiam nesciunt, quia sapiente asperiores architecto non recusandae dolores odit consequatur qui, enim error minima consectetur maiores quo quae atque impedit ipsam, eos ipsum distinctio magni sed? Necessitatibus officia dolorum iste ad excepturi, recusandae quidem accusantium dignissimos hic doloribus beatae alias quos assumenda omnis labore vel nesciunt accusamus. Molestias dolores enim sint ipsum recusandae. Et illum doloribus provident, sapiente, vero voluptatem accusamus minima fugit architecto, itaque rem, consequatur aliquid voluptatibus debitis repellat! Libero quam amet atque et reprehenderit molestias doloribus explicabo? Similique minus dignissimos sed itaque, odio enim expedita, voluptatibus ducimus, natus et officiis sit quo nemo, cupiditate labore eum facere saepe. Sapiente.</p>
+											<p>Loremipsum dolor sit amet, consectetur adipisicing elit. Facilis labore incidunt natus quos dolor quis dicta officia architecto recusandae, numquam eligendi, cupiditate obcaecati consequuntur neque, quisquam explicabo, magnam praesentium maxime eaque fuga vel corrupti! Itaque alias vel, nihil officia similique, eos cumque, maxime mollitia culpa placeat quibusdam veniam reprehenderit. Harum repellendus magni dignissimos debitis saepe, fuga adipisci, sint vitae accusantium officia nesciunt illum, reprehenderit veritatis rem nam fugit enim modi quaerat culpa. Tenetur voluptatum blanditiis magnam, exercitationem perspiciatis, porro quis, minus, ea vitae ullam officia aliquid quia? Excepturi eligendi tempora alias tempore id ut culpa. Reprehenderit alias error sunt cum unde vero facere dignissimos soluta, quibusdam voluptas qui veniam? In dolor, est iste quis, vel tenetur totam amet similique illo ipsa architecto, provident, facere iusto! Pariatur voluptatibus, fugit illum molestiae sit quia veniam facilis, asperiores accusamus minima nisi maiores, laudantium, dignissimos et vitae itaque animi delectus quis consectetur repellat harum nulla eius cum est. Id aliquam vitae nam! Cupiditate ducimus optio expedita provident modi similique unde, maxime debitis at ipsa, soluta veritatis nesciunt saepe aliquid quam laboriosam blanditiis dicta earum nam animi quis dolor culpa. Veniam voluptas, maiores, dolor omnis nisi similique deleniti non sint voluptatum totam ut laboriosam, itaque repellendus molestiae vero reprehenderit facere obcaecati quo natus. Aliquid, libero magnam laborum fugiat dolores ratione atque! Vel dolor dolores nobis maiores officia pariatur aliquid ea velit aliquam, inventore deserunt dignissimos totam nulla vero accusantium impedit culpa. Nemo reprehenderit, ipsa minus iure et vel, fuga sed, labore ea quisquam quaerat suscipit dicta placeat in, natus temporibus commodi debitis optio repudiandae dolorem magni ab blanditiis a illum? Iusto nam iure eaque temporibus consequuntur consequatur culpa modi, atque vitae ipsam necessitatibus totam suscipit. Voluptatem pariatur dignissimos consectetur dicta est ratione tempora reprehenderit illo suscipit, eveniet, saepe obcaecati mollitia doloribus sint commodi fugiat! Iste amet ullam dolor omnis distinctio nostrum voluptate tenetur nisi pariatur magnam corporis earum reprehenderit, soluta praesentium vero minus aliquam, autem quia non deleniti saepe sunt similique explicabo? Delectus sapiente voluptas rerum repellendus facere explicabo expedita numquam dolorem aliquid, nostrum, ratione 	debitis eos vel nesciunt quo ut! Consequatur quasi a facere ex veritatis illo assumenda reiciendis explicabo ipsa nostrum. Beatae officiis, eveniet sit at, labore dolor ab eligendi quod aperiam optio, in! Nisi debitis est delectus esse, reprehenderit eos veritatis excepturi laudantium impedit, aliquid voluptate nihil non omnis ipsum accusantium natus! Cum culpa, architecto aperiam recusandae vitae nam. Aperiam nesciunt, quia sapiente asperiores architecto non recusandae dolores odit consequatur qui, enim error minima consectetur maiores quo quae atque impedit ipsam, eos ipsum distinctio magni sed? Necessitatibus officia dolorum iste ad excepturi, recusandae quidem accusantium dignissimos hic doloribus beatae alias quos assumenda omnis labore vel nesciunt accusamus. Molestias dolores enim sint ipsum recusandae. Et illum doloribus provident, sapiente, vero voluptatem accusamus minima fugit architecto, itaque rem, consequatur aliquid voluptatibus debitis repellat! Libero quam amet atque et reprehenderit molestias doloribus explicabo? Similique minus dignissimos sed itaque, odio enim expedita, voluptatibus ducimus, natus et officiis sit quo nemo, cupiditate labore eum facere saepe. Sapiente.</p>
+										</div>
+									</div>
+								</div>
+							</section>
+							<!--<img class="rubro" src="http://lorempixel.com/100/100" alt="imagen_ejemplo"> -->
+						</div>
+
+				</section>
+			</div>
+		</div>	
+	
+		<script src= "../js/bootstrap.min.js"></script>
+		<script src= "../js/jquery.js"></script>
+</body>
+</html>

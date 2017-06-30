@@ -1,0 +1,143 @@
+
+
+/* Large devices (large desktops, 1200px and up) */
+@media screen and (min-width:1200px) {
+	.ti-blanco{
+	color:#FFF;
+ 	font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+
+
+	}
+
+
+
+	.pie-pagina{
+		padding-top: 500px;
+		padding-bottom: 20px;
+	}
+
+	.pie-pagina-tramite{
+		padding-top: 1500px;
+		padding-bottom: 20px;
+	}
+	div.contenedor{
+		padding-top: 20px;
+		padding-left: 90px;
+		/*width: 1200px;
+		height: 1800px;*/
+	
+	}
+	/*img.rubro {
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom:  10px;
+	padding-top: 10px;
+	}*/
+	.busqueda{
+		width: 80%;
+		height: 30px;
+	}	
+	.img-cat, .img-principal{
+		padding-right: 10px;
+		padding-left: 10px;
+		padding-bottom:  10px;
+		padding-top: 10px;
+	}
+	img.rubro-min {
+		padding-right: 1px;
+		padding-left: 1px;
+		padding-bottom:  1px;
+		padding-top: 1px;
+	}
+	.info_tr{
+		width: 100%;
+		height: auto;
+		overflow: scroll;
+		overflow-x: auto;
+		overflow-y: auto;
+		padding-right: 10px;
+		padding-left: 10px;
+		/*background: #EEE;*/
+		}
+	.cat_req_box{
+	width: 100%;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	/*height: 700px;*/
+	overflow: scroll;
+	overflow-x: auto;
+	overflow-y: auto;;
+	padding-right: 10px;
+	padding-left: 10px;
+	/*background: rgb(132, 219, 202)	;*/
+	background: #EEE;
+
+}
+	.cat_fl_box{
+		width: 100%;
+		/*height: 700px;*/
+		overflow: scroll;
+		overflow-x: auto;
+		overflow-y: auto;
+		padding-right: 10px;
+		padding-left: 10px;
+		/*background: #2797BE;*/
+		background: #EEE;
+	}
+	.cat_do_box{
+		width: 100%;
+		/*height: 700px;*/
+		overflow: scroll;
+		overflow-x: auto;
+		overflow-y: auto;
+		padding-right: 10px;
+		padding-left: 10px;
+		/*background: #694735;*/
+		background: #EEE;
+	}
+	.cat_tmp_box{
+		width: 100%;
+		/*height: 700px;*/
+		overflow: scroll;
+		overflow-x: auto;
+		overflow-y: auto;;
+		padding-right: 10px;
+		padding-left: 10px;
+		/*background: #8BC63E;*/
+		background: #EEE;
+	}
+	.cat_pf_box{
+		width: 100%;
+		/*height: 700px;*/
+		overflow: scroll;
+		overflow-x: auto;
+		overflow-y: auto;;
+		padding-right: 10px;
+		padding-left: 10px;
+		/*background: #F58220;*/
+		background: #EEE;
+	}
+	.cat_of_box{
+		width: 100%;
+		/*height: 700px;*/
+		overflow: scroll;
+		overflow-x: auto;
+		overflow-y: auto;;
+		padding-right: 10px;
+		padding-left: 10px;
+		/*background: #DB6A6B;*/
+		background: #EEE;
+	}
+	.padding-less-right[class*="col-"]{
+		/*padding-left: 0px;*/
+		padding-right: 0px;
+	}
+	.padding-less-center[class*="col-"]{
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+
+}
+
+
+

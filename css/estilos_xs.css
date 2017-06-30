@@ -1,0 +1,603 @@
+
+/*Super Ultra samll devices*/
+@media screen and (max-width:667px) {
+	#table-req{
+		padding:0px !important;
+	}
+
+	ul{
+		padding: 0px;
+	}
+	.rect-claro{
+		height: auto;
+		 -webkit-border-bottom-right-radius: 0px;
+		border-top-right-radius: 0px;
+		-moz-border-bottom-right-radius: 0px;
+	}
+	.rect-oscuro{
+		height: auto;
+		-webkit-border-bottom-right-radius: 0px;
+		border-top-right-radius: 0px;
+		-moz-border-bottom-right-radius: 0px;
+	}
+	.padding-xs[class*="col-"]{
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+	.padding-less[class*="col-"]{
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+	.padding-less-right[class*="col-"]{
+		padding-left: 0px;
+		/*padding-right: 0px;*/
+	}
+	.padding-less-center[class*="col-"]{
+		padding-left: 0px;
+		/*padding-right: 0px;*/
+	}
+	.table-title-cat-req{
+		font-size: 16px;
+	}
+	.table-title-cat-of{
+		font-size: 16px;
+	}
+	.table-title-cat-tmp{
+		font-size: 16px;
+	}
+	.table-title-cat-pf{
+		font-size: 16px;
+	}
+	.table-title-cat-do{
+		font-size: 16px;
+	}
+	.table-title-cat-fl{
+		font-size: 16px;
+	}
+	.table-stitle-cat-tmp{
+
+		text-align: left;
+	}
+	.table-stitle-cat-pf{
+	/*background-color: rgba(191, 102, 26, 0.38);*/
+		
+		text-align: left;
+
+		}
+	.text-center-xs{
+		text-align: left;
+		padding-left: 30%;
+		
+	}
+	.text-center-en-xs{
+		text-align: center;
+	}
+
+	.title-rubro{
+		font-size:14px;
+		font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+	}
+	.panel-title-sm{
+		margin-top:0px;
+		margin-bottom:0px;
+		font-size: 10px;
+		color:inherit;
+
+	}
+	.busqueda_tramite-resp{
+		width: 100%;
+		height: 25px;
+		float:right;
+	}
+	.btn-sm, .btn-group-sm > .btn{
+		font-size: 10px;
+	}
+	.iconos-redes{
+		width: 4%;
+	}
+
+		.contenedor-desc{
+	height: 60px;
+	overflow: scroll;
+	overflow-x: auto;
+	overflow-y: auto;
+	font-size:smaller;
+	}
+.contenedor-detalle{
+	height: 20px;
+	overflow:scroll;
+	overflow-x: auto;
+	overflow-y: auto;
+	font-size:smaller;
+	}
+
+	.redes-icon{
+		background-color:#8FC74A;
+
+		height: 35px;
+	
+	}
+	.lista_tr{
+	padding-top: 5px;
+	overflow: scroll;
+	height: 350px;
+
+
+	}
+
+	.font-rubro{
+	font-size: 12px;
+ 	font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+	color:rgb(74, 74, 74);
+	}
+	.contenedor-rubros-xs-sm{
+		margin-top: 2.5%;
+		margin-bottom: 2.5%;
+	}
+	.cat_req_box{
+	width: 100%;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	height: 400px;
+	overflow: scroll;
+	/*overflow-y:hidden;*/
+	padding-right: 10px;
+	padding-left: 10px;
+	/*background: rgb(132, 219, 202)	;*/
+	background: #EEE;
+
+	}
+	.cat_fl_box{
+		width: 100%;
+		height: 400px;
+		overflow: scroll;
+		overflow-x: auto;
+	/*overflow-y:hidden;*/
+		padding-right: 10px;
+		padding-left: 10px;
+		/*background: #2797BE;*/
+		background: #EEE;
+	}
+	.cat_do_box{
+		width: 100%;
+		height: 400px;
+		overflow: scroll;
+		overflow-x: auto;
+	/*overflow-y:hidden;*/
+		padding-right: 10px;
+		padding-left: 10px;
+		/*background: #694735;*/
+		background: #EEE;
+	}
+	.cat_tmp_box{
+		width: 100%;
+		height: 400px;
+		overflow: scroll;
+		overflow-x: auto;
+	/*overflow-y:hidden;*/
+		padding-right: 10px;
+		padding-left: 10px;
+		/*background: #8BC63E;*/
+		background: #EEE;
+	}
+	.cat_pf_box{
+		width: 100%;
+		height: 400px;
+		overflow: scroll;
+		overflow-x: auto;
+	/*overflow-y:hidden;*/
+		padding-right: 10px;
+		padding-left: 10px;
+		/*background: #F58220;*/
+		background: #EEE;
+	}
+	.cat_of_box{
+		width: 100%;
+		height: 400px;
+		overflow: scroll;
+		overflow-x: auto;
+	/*overflow-y:hidden;*/
+		padding-right: 10px;
+		padding-left: 10px;
+		/*background: #DB6A6B;*/
+		background: #EEE;
+	}
+	.vu-cs{
+		padding-left: 0%;
+	}
+	.tit-tramite-cs-box{
+			position: absolute;
+			top: 30%;
+			left: 28%;
+			width: 70%;
+			
+		}
+	.tit-tramite-cs{
+			color:#FFF;
+			font-size: 12px;
+			text-align: right;
+
+			/*padding-right: 3%;*/
+		}
+	.contenedor-vu-xm-sm{
+		height: 150px;
+		width: 100%;
+		padding: 2px;
+	}
+	.cat-img{
+	height: 700px;
+	}
+	.contenedor-tramite-info{
+		background-color: #FFF;
+		height: 450px;
+		margin:2%;
+	}
+	li{
+		/*font-size: 0.8em;*/
+	}
+	.tramite-lista{
+		font-size: 12px;
+		color:rgb(74, 74, 74);
+	}
+	.siete-columnas{
+		height: 80px;
+	}
+	.siete-columnas-r{
+		height: 80px;
+	}
+	.padding-busqueda-box{
+	margin:3%;
+}
+	.busqueda{
+		width: 70%
+	}
+	.btn-uxs{
+		font-size: 4px;
+	}
+
+		.p1_busqueda{
+		height: 80px;
+		background-color: red;
+	}
+	.p1_vu{
+		height: 80px;
+		background-color: blue;
+		width: 30%;
+	}
+	.p1_ag_az{
+		height: 80px;
+
+		background-color: yellow;
+	}
+
+	.btn-a-z{
+		font-size: 10px;
+		background-color: black;
+
+	}
+	.pie-portal{
+		
+	}
+
+
+}
+/*Extra small devices (phones, less than 768px) */
+@media screen and (min-width: 667px) and (max-width:768px) {
+	.text-center-xs{
+		text-align: left;
+		padding-left: 30%;
+	}
+	.contenedor-tramite-info{
+		background-color: #FFF;
+		height: 450px;
+		margin:2%;
+	}
+	.rect-claro{
+		height: auto;
+		 -webkit-border-bottom-right-radius: 0px;
+		border-top-right-radius: 0px;
+		-moz-border-bottom-right-radius: 0px;
+	}
+	.rect-oscuro{
+		height: auto;
+		-webkit-border-bottom-right-radius: 0px;
+		border-top-right-radius: 0px;
+		-moz-border-bottom-right-radius: 0px;
+	}
+	.busqueda_tramite-resp{
+		width: 100%;
+		height: 25px;
+		float:right;
+	}
+	.padding-xs[class*="col-"]{
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+	.padding-less[class*="col-"]{
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+
+	.title-rubro{
+		font-size:16px;
+		font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+	}
+		.contenedor-desc{
+	height: 60px;
+	overflow: scroll;
+		overflow-x: auto;
+	overflow-y: auto;
+	font-size:smaller;
+	}
+.contenedor-detalle{
+	height: 20px;
+	overflow:scroll;
+	overflow-x: auto;
+	overflow-y: auto;
+	font-size:smaller;
+	}
+
+	.cat_req_box{
+	width: 100%;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	height: 400px;
+	overflow: scroll;
+	overflow-x: auto;
+	/*overflow-y:hidden;*/
+	padding-right: 10px;
+	padding-left: 10px;
+	/*background: rgb(132, 219, 202)	;*/
+	background: #EEE;
+
+	}
+		.fila-xs-sm{
+		padding-right: 3%;
+		padding-bottom: 3%;
+	
+	}
+	.lista_tr{
+	padding-top: 5px;
+	overflow: scroll;
+	height: 350px;
+
+
+	}
+	.cat_fl_box{
+		width: 100%;
+		height: 400px;
+		overflow: scroll;
+		overflow-x: auto;
+	/*overflow-y:hidden;*/
+		padding-right: 10px;
+		padding-left: 10px;
+		/*background: #2797BE;*/
+		background: #EEE;
+	}
+	.cat_do_box{
+		width: 100%;
+		height: 400px;
+		overflow: scroll;
+		overflow-x: auto;
+	/*overflow-y:hidden;*/
+		padding-right: 10px;
+		padding-left: 10px;
+		/*background: #694735;*/
+		background: #EEE;
+	}
+	.cat_tmp_box{
+		width: 100%;
+		height: 400px;
+		overflow: scroll;
+		overflow-x: auto;
+	/*overflow-y:hidden;*/
+		padding-right: 10px;
+		padding-left: 10px;
+		/*background: #8BC63E;*/
+		background: #EEE;
+	}
+	.cat_pf_box{
+		width: 100%;
+		height: 400px;
+		overflow: scroll;
+		overflow-x: auto;
+	/*overflow-y:hidden;*/
+		padding-right: 10px;
+		padding-left: 10px;
+		/*background: #F58220;*/
+		background: #EEE;
+	}
+	.cat_of_box{
+		width: 100%;
+		height: 400px;
+		overflow: scroll;
+		overflow-x: auto;
+	/*overflow-y:hidden;*/
+		padding-right: 10px;
+		padding-left: 10px;
+		/*background: #DB6A6B;*/
+		background: #EEE;
+	}
+	.vu-cs{
+		padding-left: 0%;
+	}
+	.tit-tramite-cs{
+			color:#FFF;
+			font-size: 14px;
+			text-align: right;
+
+			/*padding-right: 3%;*/
+	}
+	.tit-tramite-cs-box{
+			position: absolute;
+			top: 35px;
+			left: 33%;
+			width: 65%;
+			
+		}
+	.tramite-lista{
+	font-size: 12px;
+	color:rgb(74, 74, 74);
+	}
+
+	.padding-busqueda-box{
+		margin:1%;
+		}
+		.padding-less-right[class*="col-"]{
+		padding-left: 0px;
+		/*padding-right: 0px;*/
+	}
+	.p1_busqueda{
+		height: 80px;
+		background-color: red;
+	}
+	.p1_vu{
+		height: 80px;
+		background-color: blue;
+		width: 30%;
+	}
+	.p1_ag_az{
+		height: 80px;
+		background-color: yellow;
+		padding-top: 10%;
+	}
+
+	.btn-a-z{
+		font-size: 10px;
+		background-color: black;
+
+	}
+
+		.pie-pagina{
+		padding-top: 150px;
+		padding-bottom: 20px;
+		}
+
+		.pie-pagina-tramite{
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+		div.contenedor{
+
+			padding-top: 20px;
+			padding-left: 30px;
+		/*width: 1200px;
+		height: 1800px;*/
+
+		}	
+
+	.busqueda{
+		width: 80%;
+		height: 40px;
+	}
+	.img-cat, .img-principal{
+		padding-right: 10px;
+		padding-left: 10px;
+		padding-bottom:  10px;
+		padding-top: 10px;
+		width:13%;
+	}
+		.table-title-cat-req{
+		font-size: 18px;
+	}
+	.table-title-cat-of{
+		font-size: 18px;
+	}
+	.table-title-cat-tmp{
+		font-size: 18px;
+	}
+	.table-title-cat-pf{
+		font-size: 18px;
+	}
+	.table-title-cat-do{
+		font-size: 18px;
+	}
+	.table-title-cat-fl{
+		font-size: 18px;
+	}
+	/*img.rubro-min {
+		padding-right: 1px;
+		padding-left: 1px;
+		padding-bottom:  1px;
+		padding-top: 1px;
+		width: 15%;
+	}*/
+	.info_tr{
+		width: 100%;
+		height: 450px;
+		overflow: scroll;
+		overflow-x: auto;
+		padding-right: 10px;
+		padding-left: 10px;
+		/*background: #EEE;*/
+	}
+	.cat_req_box{
+	width: 100%;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	height: 700px;
+	overflow: scroll;
+	overflow-x: auto;
+	overflow-y: auto;
+	padding-right: 10px;
+	padding-left: 10px;
+	/*background: rgb(132, 219, 202)	;*/
+	background: #EEE;
+
+	}
+	.cat_fl_box{
+		width: 100%;
+		height: 700px;
+		overflow: scroll;
+		overflow-x: auto;
+		overflow-y: auto;
+		padding-right: 10px;
+		padding-left: 10px;
+		/*background: #2797BE;*/
+		background: #EEE;
+	}
+	.cat_do_box{
+		width: 100%;
+		height: 700px;
+		overflow: scroll;
+		overflow-x: auto;
+		overflow-y: auto;
+		padding-right: 10px;
+		padding-left: 10px;
+		/*background: #694735;*/
+		background: #EEE;
+	}
+	.cat_tmp_box{
+		width: 100%;
+		height: 700px;
+		overflow: scroll;
+		overflow-x: auto;
+		overflow-y: auto;
+		padding-right: 10px;
+		padding-left: 10px;
+		/*background: #8BC63E;*/
+		background: #EEE;
+	}
+	.cat_pf_box{
+		width: 100%;
+		height: 700px;
+		overflow: scroll;
+		overflow-x: auto;
+		overflow-y: auto;
+		padding-right: 10px;
+		padding-left: 10px;
+		/*background: #F58220;*/
+		background: #EEE;
+	}
+	.cat_of_box{
+		width: 100%;
+		height: 700px;
+		overflow: scroll;
+		overflow-x: auto;
+		padding-right: 10px;
+		padding-left: 10px;
+		/*background: #DB6A6B;*/
+		background: #EEE;
+	}
+
+}

@@ -1,0 +1,73 @@
+div.logo{
+	width: 250px;
+	height: 250px;
+	padding-right: 450px;
+  	padding-left: 450px;
+  	padding-top: 50px;
+  	float: left;
+}
+div.contenedor{
+	padding-top: 150px;
+	width: 1200px;
+	height: 1200px;
+
+}
+div.contenedor-rubros{
+
+}
+
+img.rubro {
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom:  10px;
+	padding-top: 10px;
+}
+
+.busqueda{
+	width: 400px;
+	height: 30px;
+	padding-right: 10px;
+}
+.sombra{
+	box-shadow: 4px 2px #B5B6B2;
+}
+
+img:hover.blur
+{
+    -webkit-filter: grayscale(80%); /* Chrome, Safari, Opera */
+    filter: grayscale(50%);
+}
+
+.info-tramite{
+	width: 750px;
+	height: 900px;
+	padding-right: 50px;
+  	padding-left: 50px;		
+}
+.encabezado-tr{	
+  	padding-right: 550px;
+  	padding-top: 50px;
+	float: right;
+}
+.img-principal{
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom:  10px;
+	padding-top: 10px;
+}
+.contenedor-tramite{
+	width: 700px;
+	height: 850px;
+	overflow: scroll;
+	overflow-x: hidden;
+	padding-right: 20px;
+	background: #EEE;
+}
+.img-home{
+	padding-left: 360px;
+	padding-bottom:  10px;
+	padding-top: 10px;
+}
+.aside-tramite{
+
+}

@@ -1,0 +1,219 @@
+
+
+/* Small devices (tablets, 768px and up) */
+@media screen and (min-width: 768px) and (max-width:992px) {
+	.contenedor-desc{
+	height: 60px;
+	overflow: scroll;
+	font-size:smaller;
+	}
+.padding-less-right[class*="col-"]{
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+.padding-xs[class*="col-"]{
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+.padding-less[class*="col-"]{
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+	.padding-less-right[class*="col-"]{
+		/*padding-left: 0px;*/
+		padding-right: 0px;
+	}
+	.padding-less-center[class*="col-"]{
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+.contenedor-detalle{
+	height: 20px;
+	overflow:scroll;
+	font-size:smaller;
+	}
+.fila-xs-sm{
+		padding-right: 3%;
+		padding-bottom: 3%;
+	}
+.busqueda_tramite-resp{
+	width: 100%;
+	height: 40px;
+}
+..btn-sm{
+	font-size: 20px;
+}
+
+	.lista_tr{
+		padding-top: 5px;
+		overflow: scroll;
+		height: 550px;
+
+
+	}
+	.redes-icon{
+		background-color:#8FC74A;
+
+		height: 50px;
+	
+	}
+
+.tramite-lista{
+		font-size: 12px;
+		color:rgb(74, 74, 74);
+	}
+
+.p1_busqueda{
+			height: 100px;
+			background-color: red;
+		}
+		.p1_vu{
+			height: 300px;
+			background-color: blue;
+
+		}
+		.p1_ag_az{
+			height: 300px;
+			background-color: yellow;
+			padding-top: 10%;
+		}
+
+		.pie-pagina{
+			padding-top: 250px;
+			padding-bottom: 20px;
+		}
+		
+		.pie-pagina-tramite{
+		padding-top: 100px;
+		padding-bottom: 20px;
+		}
+		div.contenedor{
+
+			padding-top: 15px;
+			padding-left: 70px;
+		/*width: 1200px;
+		height: 1800px;*/
+
+		}	
+	/*img.rubro {
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-bottom:  5px;
+	padding-top: 5px;
+	width: 20%;
+
+	}*/
+	.busqueda{
+		width: 80%;
+		height: 40px;
+	}
+	.img-cat, .img-principal{
+		padding-right: 10px;
+		padding-left: 10px;
+		padding-bottom:  10px;
+		padding-top: 10px;
+		width:15%;
+	}
+
+
+	img.rubro-min {
+		padding-right: 1px;
+		padding-left: 1px;
+		padding-bottom:  1px;
+		padding-top: 1px;
+		width: 13%;
+	}
+	.info_tr{
+		width: 100%;
+		height: 700px;
+		overflow: scroll;
+		overflow-x: auto;
+		padding-right: 10px;
+		padding-left: 10px;
+		/*background: #EEE;*/
+	}
+	.cat_req_box{
+	width: 100%;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	height: 700px;
+	overflow: scroll;
+	overflow-x: auto;
+	/*overflow-y:hidden;*/
+	padding-right: 10px;
+	padding-left: 10px;
+	/*background: rgb(132, 219, 202)	;*/
+	background: #EEE;
+
+	}
+	.cat_fl_box{
+		width: 100%;
+		height: 700px;
+		overflow: scroll;
+		overflow-x: auto;
+	/*overflow-y:hidden;*/
+		padding-right: 10px;
+		padding-left: 10px;
+		/*background: #2797BE;*/
+		background: #EEE;
+	}
+	.cat_do_box{
+		width: 100%;
+		height: 700px;
+		overflow: scroll;
+		overflow-x: auto;
+		padding-right: 10px;
+		padding-left: 10px;
+		/*background: #694735;*/
+		background: #EEE;
+	}
+	.cat_tmp_box{
+		width: 100%;
+		height: 700px;
+		overflow: scroll;
+		overflow-x: auto;
+	/*overflow-y:hidden;*/
+		padding-right: 10px;
+		padding-left: 10px;
+		/*background: #8BC63E;*/
+		background: #EEE;
+	}
+	.cat_pf_box{
+		width: 100%;
+		height: 700px;
+		overflow: scroll;
+		overflow-x: auto;
+	/*overflow-y:hidden;*/
+		padding-right: 10px;
+		padding-left: 10px;
+		/*background: #F58220;*/
+		background: #EEE;
+	}
+	.cat_of_box{
+		width: 100%;
+		height: 700px;
+		overflow: scroll;
+		overflow-x: auto;
+	/*overflow-y:hidden;*/
+		padding-right: 10px;
+		padding-left: 10px;
+		/*background: #DB6A6B;*/
+		background: #EEE;
+	}
+		.tit-tramite-cs-box{
+			position: absolute;
+			top: 28%;
+			left: 30%;
+			width: 70%;
+			
+		}
+		.tit-tramite-cs{
+			color:#FFF;
+			font-size: 20px;
+			text-align: right;
+
+			/*padding-right: 3%;*/
+		}
+
+}
+
